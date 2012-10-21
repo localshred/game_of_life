@@ -1,10 +1,7 @@
 # encoding: UTF-8
 
-require 'pry'
-require 'awesome_print'
-
 trap(:INT) do
-  puts 'Life is over'
+  puts 'Game over, punk'
   exit(0)
 end
 
