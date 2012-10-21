@@ -14,7 +14,7 @@ No installation required, you just need ruby.
 
 ## Run the game!
 
-Conway's Game of Life isn't technically a game you play. The only input is the initial board and then the mutations just run on their own.
+[Conway's Game of Life][wiki] isn't technically a game you play. The only input is the initial board and then the mutations just run on their own.
 
 Either simply run the game for your terminal width:
 
@@ -32,5 +32,6 @@ $ ruby game.rb 50
 
 I may get around to having some template loader or something like the [game_of_life][] gem has, but probably not. This was just some good fun.
 
-  [video]: http://www.youtube.com/watch?v=IqkOy55iFUA
-  [game_of_life]: https://rubygems.org/gems/game_of_life
+  [video]: http://www.youtube.com/watch?v=IqkOy55iFUA "Youtube video of simple gameplay"
+  [wiki]: http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life "Game of Life on Wikipedia"
+  [game_of_life]: https://rubygems.org/gems/game_of_life "Rubygems"
