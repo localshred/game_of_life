@@ -1,37 +1,10 @@
 # Conway's Game of Life
 
-## See it in action
+[Conway's Game of Life][wiki] isn't a game you play. The only input is the initial board
+and then the mutations just run on their own following a basic set of rules.
 
-Checkout the [video][] I posted showing a simple 435 generation run.
+This repo contains my playful stabs at making the Game of Life in various languages.
 
-## Why?
+See each language's README for installation/run instructions and videos of runtime.
 
-Because it was fun to write and have a visual on how an algorithm works.
-
-## Installation
-
-No installation required, you just need ruby.
-
-## Run the game!
-
-[Conway's Game of Life][wiki] isn't technically a game you play. The only input is the initial board and then the mutations just run on their own.
-
-Either simply run the game for your terminal width:
-
-```shell
-$ ruby game.rb
-```
-
-Or, run the game for a specified board size by providing an integer:
-
-```shell
-$ ruby game.rb 50
-```
-
-## Other
-
-I may get around to having some template loader or something like the [game_of_life][] gem has, but probably not. This was just some good fun.
-
-  [video]: http://www.youtube.com/watch?v=IqkOy55iFUA "Youtube video of simple gameplay"
   [wiki]: http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life "Game of Life on Wikipedia"
-  [game_of_life]: https://rubygems.org/gems/game_of_life "Rubygems"
