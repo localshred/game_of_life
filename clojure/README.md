@@ -7,13 +7,13 @@ You can see it in action [on youtube]().
 # Run it
 
 ```
-$ cd clojure/clojame-of-life/
+$ cd clojure
 $ lein run
 ```
 
 # Test it
 
 ```
-$ cd clojure/clojame-of-life/
+$ cd clojure
 $ lein test
 ```
